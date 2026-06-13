@@ -36,7 +36,7 @@ The rover can follow a line forward to a delivery point, wait, detect pickup/del
 
 ## Wiring
 
-See [`docs/wiring_diagram.svg`](docs/wiring_diagram.svg) for the full diagram.
+See [`docs/rover_wiring_diagram_v2.svg`](docs/wiring_diagram.svg) for the full diagram.
 
 **Summary:**
 - IR array → Arduino analog/digital pins (D3, D4)
