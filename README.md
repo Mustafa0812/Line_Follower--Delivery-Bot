@@ -35,7 +35,7 @@ The rover follows a line forward to a delivery point, waits for the package to b
 
 ## Wiring
 
-![Wiring diagram](docs/wiring_diagram.svg)
+![Wiring diagram](docs/rover_wiring_schematic.png)
 
 | Wire colour | Meaning |
 |---|---|
