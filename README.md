@@ -30,7 +30,7 @@ The rover can follow a line forward to a delivery point, wait, detect pickup/del
 | Motors | 2× DC gear motors |
 | Buzzer | Passive buzzer, pin D13 |
 | Power | 12V battery → motors; 12V → 5V regulator → Arduino + Pi |
-| Chassis | 4-wheel differential drive, 3D-printed frame |
+| Chassis | 4-wheel differential drive, acrylic sheet frame |
 
 ---
 
