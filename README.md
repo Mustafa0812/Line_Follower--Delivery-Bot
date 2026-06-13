@@ -23,7 +23,7 @@ The rover can follow a line forward to a delivery point, wait, detect pickup/del
 | Component | Details |
 |---|---|
 | Microcontroller | Arduino Uno |
-| Single-board computer | Raspberry Pi (any model with GPIO/USB) |
+| Single-board computer | Raspberry Pi 3 |
 | IR sensor array | 2-channel digital, pins D3 & D4 |
 | Ultrasonic sensor | HC-SR04, trigger D11 / echo D12 |
 | Motor driver | L298N dual H-bridge |
